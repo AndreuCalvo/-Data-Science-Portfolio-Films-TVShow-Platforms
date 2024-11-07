@@ -6,8 +6,9 @@ At present we have a lot of streaming platforms that give us a lot of tv shows a
 ## 2.1 What is the business or policy problem you are facing?
 - Discover the main tendencies of consumers
 - Determine what platform offers the best products 
-- Identify what genre is the most viewed any year, analize if this concrete genre has a link with the real world context
+- Identify what genre is the most produced per year, analize if this concrete genre has a link with the real world context
 - Classify the platforms depends of the shows that they are offering 
+- Create a recomendation model
 ## 2.2 Who or what is affected by this problem?
 - Consumers
 - Streaming platforms, in the case of this analysi amazon, apple, max and netflix
